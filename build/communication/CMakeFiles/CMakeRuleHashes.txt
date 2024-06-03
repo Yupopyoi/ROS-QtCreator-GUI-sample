@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+d05067a9f2182461d7904bbc0744dbc3 CMakeFiles/MainWindow_autogen
+5f1175dd58388db65bc83ef1f70a3a21 CMakeFiles/communication_uninstall
+072e42718f6a47a26b19f39f6b09b02e ui_mainwindow.h

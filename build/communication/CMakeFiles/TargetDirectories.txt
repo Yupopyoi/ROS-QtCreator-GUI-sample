@@ -1,0 +1,11 @@
+/home/yupopoi/ROS-Qt/build/communication/CMakeFiles/uninstall.dir
+/home/yupopoi/ROS-Qt/build/communication/CMakeFiles/communication_uninstall.dir
+/home/yupopoi/ROS-Qt/build/communication/CMakeFiles/MainWindow.dir
+/home/yupopoi/ROS-Qt/build/communication/CMakeFiles/test.dir
+/home/yupopoi/ROS-Qt/build/communication/CMakeFiles/edit_cache.dir
+/home/yupopoi/ROS-Qt/build/communication/CMakeFiles/rebuild_cache.dir
+/home/yupopoi/ROS-Qt/build/communication/CMakeFiles/list_install_components.dir
+/home/yupopoi/ROS-Qt/build/communication/CMakeFiles/install.dir
+/home/yupopoi/ROS-Qt/build/communication/CMakeFiles/install/local.dir
+/home/yupopoi/ROS-Qt/build/communication/CMakeFiles/install/strip.dir
+/home/yupopoi/ROS-Qt/build/communication/CMakeFiles/MainWindow_autogen.dir

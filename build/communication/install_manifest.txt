@@ -1,0 +1,15 @@
+/home/yupopoi/ROS-Qt/install/communication/share/ament_index/resource_index/package_run_dependencies/communication
+/home/yupopoi/ROS-Qt/install/communication/share/ament_index/resource_index/parent_prefix_path/communication
+/home/yupopoi/ROS-Qt/install/communication/share/communication/environment/ament_prefix_path.sh
+/home/yupopoi/ROS-Qt/install/communication/share/communication/environment/ament_prefix_path.dsv
+/home/yupopoi/ROS-Qt/install/communication/share/communication/environment/path.sh
+/home/yupopoi/ROS-Qt/install/communication/share/communication/environment/path.dsv
+/home/yupopoi/ROS-Qt/install/communication/share/communication/local_setup.bash
+/home/yupopoi/ROS-Qt/install/communication/share/communication/local_setup.sh
+/home/yupopoi/ROS-Qt/install/communication/share/communication/local_setup.zsh
+/home/yupopoi/ROS-Qt/install/communication/share/communication/local_setup.dsv
+/home/yupopoi/ROS-Qt/install/communication/share/communication/package.dsv
+/home/yupopoi/ROS-Qt/install/communication/share/ament_index/resource_index/packages/communication
+/home/yupopoi/ROS-Qt/install/communication/share/communication/cmake/communicationConfig.cmake
+/home/yupopoi/ROS-Qt/install/communication/share/communication/cmake/communicationConfig-version.cmake
+/home/yupopoi/ROS-Qt/install/communication/share/communication/package.xml
