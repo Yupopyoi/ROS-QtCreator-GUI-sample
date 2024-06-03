@@ -4,10 +4,10 @@ ROSとQtCreatorを連携させ、GUIを実装したサンプル
 
 ## 環境
 
-OS : Ubuntu 22.04
-Qt : Qt 6.7
-Qt Creator : Qt Creator 13.0.0
-ROS : Humble Hawksbill
+OS : Ubuntu 22.04  
+Qt : Qt 6.7  
+Qt Creator : Qt Creator 13.0.0  
+ROS : Humble Hawksbill  
 
 ## 解説
 
