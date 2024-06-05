@@ -3,7 +3,7 @@
 mainwindow::mainwindow(QWidget *parent) : QMainWindow(parent)
 {
     setWindowTitle("ROS2_With_Qt");
-    ui = std::make_unique<Ui::mainwindow>();
+    ui = std::make_unique<Ui::MainWindow>();
     ui->setupUi(this);
 
     label = ui->subscribedText;
