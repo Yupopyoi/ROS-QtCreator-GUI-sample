@@ -1,6 +1,6 @@
 # ROS-QtCreator-GUI-sample
 
-ROSとQtCreatorを連携させ、GUIを実装したサンプル
+ROSとQtCreatorを連携させ、GUIを実装した
 
 ## 環境
 
@@ -11,7 +11,7 @@ ROS : Humble Hawksbill
 
 ## 解説
 
-解説はQiitaに載せてあります。
+解説はQiitaへ。
 
 https://qiita.com/Yupopyoi/items/04ca7eb7a87ba348c26d
 
